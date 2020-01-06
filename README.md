@@ -1,3 +1,3 @@
 # meiosis_END-seq
 
-functions used for meiosis ENDseq analysis.
+R code used for meiosis ENDseq analysis.
